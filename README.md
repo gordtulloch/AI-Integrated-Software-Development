@@ -6,9 +6,7 @@ This repository contains research papers on specification-driven, AI-assisted so
 
 ## Author
 
-- Gordon Tulloch
-- Director of Information & Communications Technologies
-- Sunrise School Division
+- Gordon Tulloch, Director of Information & Communications Technologies, Sunrise School Division
 
 ## Papers
 
