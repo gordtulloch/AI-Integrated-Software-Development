@@ -1,7 +1,7 @@
 # AI-Integrated Software Development: A Specification-Driven Framework for AI-Assisted Code Generation
 
 **Gordon Tulloch**
-Director of Information & Communications Technologies
+Director of Information & Communications Technologies, 
 Sunrise School Division
 
 ---
